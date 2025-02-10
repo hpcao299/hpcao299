@@ -21,25 +21,21 @@ jobs:
         run: |
           FILE=views.json
 
-          # Set Timezone to UTC+7
-          export TZ="Asia/Bangkok"
-          TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S %Z")
-
           if [ -f "$FILE" ]; then
-            COUNT=$(jq '.message' $FILE)
-            COUNT=$((COUNT + 1))
+            COUNT=$(jq -r '.message' $FILE)  # Extract the view count as a string
+            COUNT=$((COUNT + 1))  # Convert to integer and increment
           else
             COUNT=1
           fi
 
           # Generate Shields.io JSON format
           jq -n --arg label "Profile Views" --arg message "$COUNT" --arg color "blue" \
-            '{schemaVersion: 1, label: $label, message: $message, color: $color, last_updated: "'$TIMESTAMP'"}' > $FILE
+            '{schemaVersion: 1, label: $label, message: ($message | tostring), color: $color}' > $FILE
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "James Cao"
+          git config --global user.email "caohoangphuc2909@gmail.com"
 
           # Set Timezone to UTC+7 for Commit Message
           export TZ="Asia/Bangkok"
