@@ -1,0 +1,47 @@
+name: Profile Views Counter
+
+on:
+    workflow_dispatch:
+    page_build:
+    schedule:
+        - cron: '0 * * * *' # Runs every hour
+
+    push:
+        branches:
+            - main
+
+jobs:
+    update-counter:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+
+            - name: Read and update view count
+              run: |
+                  FILE=views.json
+
+                  # Set Timezone to UTC+7
+                  export TZ="Asia/Bangkok"
+                  TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S %Z")
+
+                  if [ -f "$FILE" ]; then
+                    COUNT=$(jq '.views' $FILE)
+                    COUNT=$((COUNT + 1))
+                    echo "{\"views\": $COUNT, \"last_updated\": \"$TIMESTAMP\"}" > $FILE
+                  else
+                    echo "{\"views\": 1, \"last_updated\": \"$TIMESTAMP\"}" > $FILE
+                  fi
+
+            - name: Commit and push changes
+              run: |
+                  git config --global user.name "github-actions"
+                  git config --global user.email "github-actions@github.com"
+
+                  # Set Timezone to UTC+7 for Commit Message
+                  export TZ="Asia/Bangkok"
+                  DATE=$(date +"%Y-%m-%d %H:%M:%S %Z")
+
+                  git add views.json
+                  git commit -m "Profile view recorded on $DATE (UTC+7)" || exit 0
+                  git push
