@@ -1,47 +1,50 @@
 name: Profile Views Counter
 
 on:
-    workflow_dispatch:
-    page_build:
-    schedule:
-        - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+  page_build:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
 
-    push:
-        branches:
-            - main
+  push:
+    branches:
+      - main
 
 jobs:
-    update-counter:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout repository
-              uses: actions/checkout@v3
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-            - name: Read and update view count
-              run: |
-                  FILE=views.json
+      - name: Read and update view count
+        run: |
+          FILE=views.json
 
-                  # Set Timezone to UTC+7
-                  export TZ="Asia/Bangkok"
-                  TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S %Z")
+          # Set Timezone to UTC+7
+          export TZ="Asia/Bangkok"
+          TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S %Z")
 
-                  if [ -f "$FILE" ]; then
-                    COUNT=$(jq '.views' $FILE)
-                    COUNT=$((COUNT + 1))
-                    echo "{\"views\": $COUNT, \"last_updated\": \"$TIMESTAMP\"}" > $FILE
-                  else
-                    echo "{\"views\": 1, \"last_updated\": \"$TIMESTAMP\"}" > $FILE
-                  fi
+          if [ -f "$FILE" ]; then
+            COUNT=$(jq '.message' $FILE)
+            COUNT=$((COUNT + 1))
+          else
+            COUNT=1
+          fi
 
-            - name: Commit and push changes
-              run: |
-                  git config --global user.name "github-actions"
-                  git config --global user.email "github-actions@github.com"
+          # Generate Shields.io JSON format
+          jq -n --arg label "Profile Views" --arg message "$COUNT" --arg color "blue" \
+            '{schemaVersion: 1, label: $label, message: $message, color: $color, last_updated: "'$TIMESTAMP'"}' > $FILE
 
-                  # Set Timezone to UTC+7 for Commit Message
-                  export TZ="Asia/Bangkok"
-                  DATE=$(date +"%Y-%m-%d %H:%M:%S %Z")
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-                  git add views.json
-                  git commit -m "Profile view recorded on $DATE (UTC+7)" || exit 0
-                  git push
+          # Set Timezone to UTC+7 for Commit Message
+          export TZ="Asia/Bangkok"
+          DATE=$(date +"%Y-%m-%d %H:%M:%S %Z")
+
+          git add views.json
+          git commit -m "Profile view recorded on $DATE (UTC+7)" || exit 0
+          git push
