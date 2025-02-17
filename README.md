@@ -3,6 +3,8 @@
  
 <p align="center"><a href="https://jameskaois.com"><img width="100%" height="auto" alt="Hello, I'm James Cao. I'm Vietnamese!" src="./assets/gh-hello.png" /></a></p>
 
+### About me
+
 My name is Cao Hoàng Phúc. I'm a self-taught devoted Software Engineer. Starting with no prior experience, I've developed and launched several web applications and apps.
 
 -   💼 Founder of [KoaCook](https://github.com/koacook).
@@ -12,6 +14,8 @@ My name is Cao Hoàng Phúc. I'm a self-taught devoted Software Engineer. Starti
 -   🚀 Above ~ 20 projects done.
 
 -   ♾️ Unlimited ideas under development / pending.
+
+### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)<br>
