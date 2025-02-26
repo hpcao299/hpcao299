@@ -18,15 +18,15 @@ My name is Cao Hoàng Phúc. I'm a self-taught devoted Software Engineer. Starti
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hpcao299/thpt_quoc_gia_tin_2025](https://github.com/hpcao299/thpt_quoc_gia_tin_2025)<br>
-2. ⬆️ Pushed 1 commit(s) to [KoaCook/order-online-system-backend-template](https://github.com/KoaCook/order-online-system-backend-template)<br>
-3. 📔 Created new repository [KoaCook/order-online-system-backend-template](https://github.com/KoaCook/order-online-system-backend-template)<br>
-4. ⬆️ Pushed 1 commit(s) to [KoaCook/.github](https://github.com/KoaCook/.github)<br>
-5. ⬆️ Pushed 1 commit(s) to [KoaCook/.github](https://github.com/KoaCook/.github)<br>
+1. ⭐ Starred [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat)<br>
+2. ⭐ Starred [shadcn-ui/ui](https://github.com/shadcn-ui/ui)<br>
+3. ⭐ Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)<br>
+4. ⭐ Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)<br>
+5. ⭐ Starred [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 26th, 2025, 9:34:34 PM
+Last Updated: Wednesday, February 26th, 2025, 10:11:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <span><img height="20" alt="html5" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/HTML5.svg"></span> <span><img height="20" alt="css3" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/CSS3.svg"></span> <span><img height="20" alt="github" src="https://github.com/prplx/svg-logos/raw/master/svg/Github-Alt.svg"></span> <span><img height="20" alt="graphql" src="https://github.com/prplx/svg-logos/raw/master/svg/GraphQL.svg"></span> <span><img height="20" alt="javascript" src="https://github.com/prplx/svg-logos/raw/master/svg/JavaScript.svg"></span> <span><img height="20" alt="typescript" src="https://github.com/prplx/svg-logos/raw/master/svg/TypeScript-Alt.svg"></span> <span><img height="20" alt="nextjs" src="https://github.com/prplx/svg-logos/raw/master/svg/NextJS-Alt.svg"></span> <span><img height="20" alt="react" src="https://github.com/prplx/svg-logos/raw/master/svg/React.svg"></span> <span><img height="20" alt="react" src="https://github.com/prplx/svg-logos/raw/master/svg/Vue-Alt.svg"></span> <span><img height="20" alt="tailwindcss" src="https://github.com/prplx/svg-logos/raw/master/svg/TailwindCSS-Alt.svg"></span> <span><img height="20" alt="firebase" src="https://github.com/prplx/svg-logos/raw/master/svg/Firebase.svg"></span> <span><img height="20" alt="firebase" src="https://github.com/prplx/svg-logos/raw/master/svg/Laravel.svg"></span> <span><img height="20" alt="nodejs" src="https://github.com/prplx/svg-logos/raw/master/svg/NodeJS.svg"></span> <span><img height="20" alt="mongodb" src="https://github.com/prplx/svg-logos/raw/master/svg/MongoDB.svg"></span> <span><img height="20" alt="express" src="https://github.com/prplx/svg-logos/raw/master/svg/Express.svg"></span> <span><img height="20" alt="nestjs" src="https://github.com/prplx/svg-logos/raw/master/svg/Nest.svg"></span> <span><img height="20" alt="npm" src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg"></span>
