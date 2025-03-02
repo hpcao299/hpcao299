@@ -19,14 +19,14 @@ My name is Cao Hoàng Phúc. I'm a self-taught devoted Software Engineer. Starti
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [hpcao299/thpt_quoc_gia_tin_2025](https://github.com/hpcao299/thpt_quoc_gia_tin_2025)<br>
-2. ⭐ Starred [laravel/laravel](https://github.com/laravel/laravel)<br>
-3. ⭐ Starred [laravel/framework](https://github.com/laravel/framework)<br>
-4. ⭐ Starred [hpcao299/react_typescript_tailwind_base](https://github.com/hpcao299/react_typescript_tailwind_base)<br>
-5. ⭐ Starred [hpcao299/tiktok](https://github.com/hpcao299/tiktok)<br>
+2. ⬆️ Pushed 1 commit(s) to [hpcao299/thpt_quoc_gia_tin_2025](https://github.com/hpcao299/thpt_quoc_gia_tin_2025)<br>
+3. ⭐ Starred [laravel/laravel](https://github.com/laravel/laravel)<br>
+4. ⭐ Starred [laravel/framework](https://github.com/laravel/framework)<br>
+5. ⭐ Starred [hpcao299/react_typescript_tailwind_base](https://github.com/hpcao299/react_typescript_tailwind_base)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 2nd, 2025, 3:42:23 AM
+Last Updated: Sunday, March 2nd, 2025, 4:14:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <span><img height="20" alt="html5" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/HTML5.svg"></span> <span><img height="20" alt="css3" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/CSS3.svg"></span> <span><img height="20" alt="github" src="https://github.com/prplx/svg-logos/raw/master/svg/Github-Alt.svg"></span> <span><img height="20" alt="graphql" src="https://github.com/prplx/svg-logos/raw/master/svg/GraphQL.svg"></span> <span><img height="20" alt="javascript" src="https://github.com/prplx/svg-logos/raw/master/svg/JavaScript.svg"></span> <span><img height="20" alt="typescript" src="https://github.com/prplx/svg-logos/raw/master/svg/TypeScript-Alt.svg"></span> <span><img height="20" alt="nextjs" src="https://github.com/prplx/svg-logos/raw/master/svg/NextJS-Alt.svg"></span> <span><img height="20" alt="react" src="https://github.com/prplx/svg-logos/raw/master/svg/React.svg"></span> <span><img height="20" alt="react" src="https://github.com/prplx/svg-logos/raw/master/svg/Vue-Alt.svg"></span> <span><img height="20" alt="tailwindcss" src="https://github.com/prplx/svg-logos/raw/master/svg/TailwindCSS-Alt.svg"></span> <span><img height="20" alt="firebase" src="https://github.com/prplx/svg-logos/raw/master/svg/Firebase.svg"></span> <span><img height="20" alt="firebase" src="https://github.com/prplx/svg-logos/raw/master/svg/Laravel.svg"></span> <span><img height="20" alt="nodejs" src="https://github.com/prplx/svg-logos/raw/master/svg/NodeJS.svg"></span> <span><img height="20" alt="mongodb" src="https://github.com/prplx/svg-logos/raw/master/svg/MongoDB.svg"></span> <span><img height="20" alt="express" src="https://github.com/prplx/svg-logos/raw/master/svg/Express.svg"></span> <span><img height="20" alt="nestjs" src="https://github.com/prplx/svg-logos/raw/master/svg/Nest.svg"></span> <span><img height="20" alt="npm" src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg"></span>
