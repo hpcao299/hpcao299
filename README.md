@@ -9,7 +9,7 @@ My name is Cao Hoàng Phúc. I'm a self-taught devoted Software "Coder". Startin
 
 -   👨🏼‍💻 Another version of me [@jameskaois](https://github.com/jameskaois).
 
--   💼 Founder of [KoaCook](https://github.com/koacook).
+-   💼 Project [KoaCook](https://github.com/koacook).
 
 -   ❤️ I love using Javascript, modern frameworks, and building innovative projects.
 
