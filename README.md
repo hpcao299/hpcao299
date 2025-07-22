@@ -5,7 +5,9 @@
 
 ### About me
 
-My name is Cao Hoàng Phúc. I'm a self-taught devoted Software Engineer. Starting with no prior experience, I've developed and launched several web applications and apps.
+My name is Cao Hoàng Phúc. I'm a self-taught devoted Software "Coder". Starting with no prior experience, I've developed and launched several web applications and apps.
+
+-   👨🏼‍💻 Another version of me [@jameskaois](https://github.com/jameskaois).
 
 -   💼 Founder of [KoaCook](https://github.com/koacook).
 
