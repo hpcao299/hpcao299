@@ -20,15 +20,10 @@ My name is Cao Hoàng Phúc. I'm a self-taught devoted Software "Coder". Startin
 ### Recent activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hpcao299/ecard-caritas](https://github.com/hpcao299/ecard-caritas)<br>
-2. ⬆️ Pushed undefined commit(s) to [hpcao299/ecard-caritas](https://github.com/hpcao299/ecard-caritas)<br>
-3. ⬆️ Pushed undefined commit(s) to [hpcao299/ecard-caritas](https://github.com/hpcao299/ecard-caritas)<br>
-4. ⬆️ Pushed undefined commit(s) to [hpcao299/ecard-caritas](https://github.com/hpcao299/ecard-caritas)<br>
-5. ⬆️ Pushed undefined commit(s) to [hpcao299/ecard-caritas](https://github.com/hpcao299/ecard-caritas)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 23rd, 2026, 4:23:21 AM
+Last Updated: Monday, March 23rd, 2026, 5:52:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <span><img height="20" alt="html5" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/HTML5.svg"></span> <span><img height="20" alt="css3" src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/CSS3.svg"></span> <span><img height="20" alt="github" src="https://github.com/prplx/svg-logos/raw/master/svg/Github-Alt.svg"></span> <span><img height="20" alt="graphql" src="https://github.com/prplx/svg-logos/raw/master/svg/GraphQL.svg"></span> <span><img height="20" alt="javascript" src="https://github.com/prplx/svg-logos/raw/master/svg/JavaScript.svg"></span> <span><img height="20" alt="typescript" src="https://github.com/prplx/svg-logos/raw/master/svg/TypeScript-Alt.svg"></span> <span><img height="20" alt="nextjs" src="https://github.com/prplx/svg-logos/raw/master/svg/NextJS-Alt.svg"></span> <span><img height="20" alt="react" src="https://github.com/prplx/svg-logos/raw/master/svg/React.svg"></span> <span><img height="20" alt="react" src="https://github.com/prplx/svg-logos/raw/master/svg/Vue-Alt.svg"></span> <span><img height="20" alt="tailwindcss" src="https://github.com/prplx/svg-logos/raw/master/svg/TailwindCSS-Alt.svg"></span> <span><img height="20" alt="firebase" src="https://github.com/prplx/svg-logos/raw/master/svg/Firebase.svg"></span> <span><img height="20" alt="firebase" src="https://github.com/prplx/svg-logos/raw/master/svg/Laravel.svg"></span> <span><img height="20" alt="nodejs" src="https://github.com/prplx/svg-logos/raw/master/svg/NodeJS.svg"></span> <span><img height="20" alt="mongodb" src="https://github.com/prplx/svg-logos/raw/master/svg/MongoDB.svg"></span> <span><img height="20" alt="express" src="https://github.com/prplx/svg-logos/raw/master/svg/Express.svg"></span> <span><img height="20" alt="nestjs" src="https://github.com/prplx/svg-logos/raw/master/svg/Nest.svg"></span> <span><img height="20" alt="npm" src="https://github.com/prplx/svg-logos/raw/master/svg/npm.svg"></span>
